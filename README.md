@@ -65,4 +65,6 @@ Developed by Mr.Rangga ✅
 ---Github Repository Connected 
 https://support@minepi.com
 https://Piblockexplorer.com
-https://piblockexplorer.minepi.com
+https://blockexplorer.minepi.com
+https://github.com/Ranggaputrayudha85/
+Integrated-Pi-Blockchain-Explorer
