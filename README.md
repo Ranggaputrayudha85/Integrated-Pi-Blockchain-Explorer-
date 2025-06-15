@@ -55,7 +55,7 @@ Max Supply	100,000,000,000.000 π
 ---
 🔒 License & Author
 © 2025 All Rights Reserved.
-Developed by Mr. Rangga ✅
+Developed by Mr.Rangga ✅
 ---
 💡 Future Plans
 ✅ Integrated Brainstorm feature
@@ -65,3 +65,4 @@ Developed by Mr. Rangga ✅
 ---Github Repository Connected 
 https://support@minepi.com
 https://Piblockexplorer.com
+https://piblockexplorer.minepi.com
